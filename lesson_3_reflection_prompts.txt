@@ -26,7 +26,11 @@ or from the collaboration with your friends
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
+1.sending email manuallz
+2.google drive
 
+1. I hate email because I need to attach my file and write about the commit again and again if I need to share my ideas with many people
+2.it's suitable for programmer to edit codes together
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
